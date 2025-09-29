@@ -1,3 +1,4 @@
-# todo_spring_2025
+# todo_fall_2025
 
-TODO Spring 2025
+TODO Fall 2025
+Charley Nasiedlak, Scottie Gilden, Rex Wallin
